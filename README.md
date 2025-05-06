@@ -1,2 +1,2 @@
 # LabVIEW
-These were some Vis that were run as part of a LabVIEW Course at RRI.
+These were some VIs that were programmed as part of a LabVIEW Course taken by NI at RRI.
